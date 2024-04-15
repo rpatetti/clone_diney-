@@ -73,7 +73,7 @@ body {
 }
 
 .title--big {
-    @include title(54px);
+    @include title(64px);
 
     @media (max-width: 768px) {
         @include title(24px);
